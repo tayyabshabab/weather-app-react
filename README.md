@@ -23,3 +23,11 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
+
+####Some sample searches####
+
+```
+	> New York, us
+	> Denver, us
+	> Stockholm, se
+```
